@@ -4,6 +4,11 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+*  Class that creates a dictionary of words to use. Words.txt come from
+*  https://www.hangmanwords.com/words
+*
+**/
 public class Dictionary {
 	
 	Scanner scan;
